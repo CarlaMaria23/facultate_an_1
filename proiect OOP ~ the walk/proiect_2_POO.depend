@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1556194281 source:c:\users\carla1999\desktop\proiect_2_poo\main.cpp
+	<iostream>
+	"harta.h"
+	"robot.h"
+	"megaRobot.h"
+	"roboBobo.h"
+
+1556194748 c:\users\carla1999\desktop\proiect_2_poo\harta.h
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"robot.h"
+	"item.h"
+	"megaRobot.h"
+	"roboBobo.h"
+	"robotBoy.h"
+	"teleportare.h"
+	"altaDiagonala.h"
+	"viata.h"
+
+1556194752 c:\users\carla1999\desktop\proiect_2_poo\robot.h
+	<iostream>
+
+1556207069 c:\users\carla1999\desktop\proiect_2_poo\item.h
+	<iostream>
+	"robot.h"
+
+1556194754 c:\users\carla1999\desktop\proiect_2_poo\megarobot.h
+	<iostream>
+	"robot.h"
+
+1556194755 c:\users\carla1999\desktop\proiect_2_poo\robobobo.h
+	<iostream>
+	"robot.h"
+
+1556194757 c:\users\carla1999\desktop\proiect_2_poo\robotboy.h
+	<iostream>
+	"robot.h"
+
+1556194762 c:\users\carla1999\desktop\proiect_2_poo\teleportare.h
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	"item.h"
+
+1556194759 c:\users\carla1999\desktop\proiect_2_poo\altadiagonala.h
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	"item.h"
+
+1556194760 c:\users\carla1999\desktop\proiect_2_poo\viata.h
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	"item.h"
+
